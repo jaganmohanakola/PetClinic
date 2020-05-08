@@ -367,10 +367,7 @@
                 <configuration>
 				<url>http://3.22.250.58:8080/manager/text</url>
                     <server>apache-tomcat</server>
-                      <username>admin</username>
-    <password>admin</password>
-                   
-                    <path>/petclinic</path>
+                    <path>/spring-petclinic-4.2</path>
                 </configuration>
             </plugin>
             <plugin>
@@ -449,7 +446,7 @@
 <server>apache-tomcat</server> 
     <username>admin</username>
     <password>admin</password>
-<path>/my-webapp</path> 
+<path>/spring-petclinic-4.2</path> 
 </configuration> 
 </plugin>
                     <plugin>
